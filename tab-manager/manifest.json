@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Household Reminders",
+  "version": "1.0",
+  "icons": {
+
+  },
+  "action": {"default_popup": "popup.html"},
+  "permissions": ["storage"]
+}
