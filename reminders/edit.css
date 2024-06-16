@@ -1,0 +1,7 @@
+body {text-align: center; background-color: white; text-color: black; min-width:400px; min-height: 530px; font-family: "Unbounded", sans-serif; font-optical-sizing: auto; font-style: normal;}
+li {max-width: fit-content; margin-left: auto; margin-right: auto;}
+h3 {margin-right: 25px; margin-left: 25px; text-size: 20px;}
+ul {list-style: none; margin-bottom: 20px;}
+input {margin-bottom: 10px; font-family: "Unbounded"; text-align: center;}
+.floatLeft {float: left;}
+button {clear: both; margin-top: 10px; max-width: fit-content; margin-left: auto; margin-right: auto; display: block; font-family: "Unbounded"; background-color: lightBlue; border: 2px solid lightBlue; border-radius: 6px;}

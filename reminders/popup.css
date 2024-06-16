@@ -1,0 +1,10 @@
+body {background-color: white; text-color: black; min-width:400px; min-height: 530px; font-family: "Unbounded", sans-serif; font-optical-sizing: auto; font-style: normal;}
+button {font-family: "Unbounded"; background-color: lightBlue; border: 2px solid lightBlue; border-radius: 6px;}
+button.hover {background-color: white;}
+div {overflow-y:auto;}
+h1 {text-align: center; margin-top: 30px; margin-bottom: 15px;}
+.category {text-align: left; margin-left: 10px;}
+.titlediv {display: block; background-color: lightBlue; border: 1px solid lightBlue; border-radius: 6px;}
+.date {margin-top: -10px;}
+#btn {text-align: center; margin-left:120px; margin-right:120px; margin-top:10px;}
+ul {list-style: none;}
